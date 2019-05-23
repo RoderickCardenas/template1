@@ -1,0 +1,157 @@
+body{
+background-color: #f4f4f4;
+padding:0;
+margin: 0;
+}
+
+a:visited{
+	color: #f4f4f4
+}
+.welcome{
+	text-align: center;
+	color: white;
+	font-family: helvetica, calibri;
+	font-size: 50px
+}
+
+
+.bloglink {
+	color: #ffffff;
+	font-family: helvetica, calibri;
+	font-size: 30px;
+}
+
+.blog-posts{
+	width: 80%;
+}
+
+
+.about{
+	text-align: center;
+	color: white;
+	font-family: helvetica, calibri;
+	font-size: 30px
+}
+
+
+
+.main-text{
+	margin-top:20%;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.container{
+	background-image: url("../images/bg-web.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+.blog-background{
+	background-color: rgba(0,0,0,0.5);
+	width: 75%;
+	margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-container{
+	background-image: url("../images/bg-blog-web.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+.second-line{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.about{
+	text-align: center;
+}
+
+
+		.main-footer{
+			position: fixed;
+			bottom: 20px;
+			left: 45%;
+			font-size:18px;
+			color: #ffffff
+		}
+
+.portfolio-container{
+	max-width: 600%;
+	width: 100%;
+	height: auto;
+	margin-top: 5%;
+	margin-left: 7.5%;
+	margin-right: auto;
+	position: relative;
+}
+
+.portfolio-images{
+	width: 365px;
+	margin:15px;
+}
+
+
+.main-nav{
+	width: 100%;
+	height: auto;
+	position: relative;
+	background-color: rgba(0,0,0,0.5);
+}
+.nav-links{
+	width: 1024px;
+	padding:10px 10px 15px 10px;
+	margin-left: 1%;
+	margin-right: auto;
+}
+
+.bms-button{
+
+	width: 8%;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.nav-text{
+	font-size: 30px;
+	font-family: helvetica;
+	color: #f4f4f4;
+	margin-right: 20px;
+	text-decoration: none;
+}
+
+
+.stop-stacking{
+	width: auto;
+	margin-right: 15px;
+	float:left;
+
+}
+
+.post{
+	margin-right: auto;
+	margin-left:auto;
+	max-width:1500px;
+	font-family: helvetica;
+	font-size: 30px;
+	color: #f4f4f4;
+}
+
+.social-logo{
+	width: 40px;
+	height: auto;
+	position: relative;
+	float:right;
+    margin-top: -59px;
+    margin-right: 10px;
+	padding:10px;
+}
